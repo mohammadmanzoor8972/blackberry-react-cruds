@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blackberry-react-cruds/static/css/main.d1b05096.chunk.css",
-    "main.js": "/blackberry-react-cruds/static/js/main.2aa29a76.chunk.js",
-    "main.js.map": "/blackberry-react-cruds/static/js/main.2aa29a76.chunk.js.map",
+    "main.js": "/blackberry-react-cruds/static/js/main.33342a28.chunk.js",
+    "main.js.map": "/blackberry-react-cruds/static/js/main.33342a28.chunk.js.map",
     "runtime-main.js": "/blackberry-react-cruds/static/js/runtime-main.e9af5365.js",
     "runtime-main.js.map": "/blackberry-react-cruds/static/js/runtime-main.e9af5365.js.map",
     "static/js/2.19db75e4.chunk.js": "/blackberry-react-cruds/static/js/2.19db75e4.chunk.js",
     "static/js/2.19db75e4.chunk.js.map": "/blackberry-react-cruds/static/js/2.19db75e4.chunk.js.map",
     "index.html": "/blackberry-react-cruds/index.html",
-    "precache-manifest.edec85df62a50def48d70f185f9a06dc.js": "/blackberry-react-cruds/precache-manifest.edec85df62a50def48d70f185f9a06dc.js",
+    "precache-manifest.8eef572b791db02557f4a5f356ef6238.js": "/blackberry-react-cruds/precache-manifest.8eef572b791db02557f4a5f356ef6238.js",
     "service-worker.js": "/blackberry-react-cruds/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/blackberry-react-cruds/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.19db75e4.chunk.js.LICENSE.txt": "/blackberry-react-cruds/static/js/2.19db75e4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e9af5365.js",
     "static/js/2.19db75e4.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2aa29a76.chunk.js"
+    "static/js/main.33342a28.chunk.js"
   ]
 }
