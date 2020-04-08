@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6bf0289077f7cd4807b6e14bdf530dc",
+    "revision": "b83150ab07c85190a6917e4c7ce4673f",
     "url": "/blackberry-react-cruds/index.html"
   },
   {
-    "revision": "a60ec798b855c25c521e",
+    "revision": "77f932fbcd3c5512fba3",
     "url": "/blackberry-react-cruds/static/css/main.afc26c26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackberry-react-cruds/static/js/2.c3168134.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a60ec798b855c25c521e",
-    "url": "/blackberry-react-cruds/static/js/main.e914bfc9.chunk.js"
+    "revision": "77f932fbcd3c5512fba3",
+    "url": "/blackberry-react-cruds/static/js/main.e066ae89.chunk.js"
   },
   {
     "revision": "f9d3c74010367b4393dd",
