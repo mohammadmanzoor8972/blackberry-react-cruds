@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blackberry-react-cruds/precache-manifest.8eef572b791db02557f4a5f356ef6238.js"
+  "/blackberry-react-cruds/precache-manifest.6f671748801033cb01bd8bd5e4cfc147.js"
 );
 
 self.addEventListener('message', (event) => {

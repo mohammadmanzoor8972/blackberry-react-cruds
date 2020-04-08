@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,eAEC,yBAA2B,CAC3B,kBACD,CAEA,EAAI,cAAiB","file":"main.afc26c26.chunk.css","sourcesContent":["button,\n.button {\n\tmargin-bottom: 0 !important;\n\tmargin-right: .5rem;\n}\n\na { cursor: pointer; }"]}
